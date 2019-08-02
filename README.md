@@ -96,7 +96,9 @@ app.get(
 
 ## Examples
 
-For a complete, working example, refer to the [login example](https://github.com/phantauth/passport-phantauth/tree/master/examples/login).
+For a complete, working example, check [Phantauth Sample Passport](https://phantauth-sample-passport.now.sh/) website. For source, refer to [GitHub repository](https://github.com/phantauth/phantauth-sample-passport)).
+
+For a minimal, working example, refer to the [login example](https://github.com/phantauth/passport-phantauth/tree/master/examples/login).
 
 ## Tests
 
