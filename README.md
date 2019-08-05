@@ -1,6 +1,6 @@
 # passport-phantauth
 
-[Passport](http://passportjs.org/) strategy for authenticating with [PhantAuth](http://www.phantauth.com/)
+[Passport](http://passportjs.org/) strategy for authenticating with [PhantAuth](https://www.phantauth.net/)
 using the OpenID Connect API.
 
 PhantAuth is a Random User Generator + OpenID Connect Provider.
